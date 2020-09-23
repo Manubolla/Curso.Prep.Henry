@@ -1,0 +1,36 @@
+html {
+	background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/04/Solid-Colors-Wallpaper-Background-.jpg);
+}	
+div {
+	color: #FFFFFF;
+}
+.titulo {
+	text-align: center;
+}
+.expLab {
+	border:1px solid black;
+	width:30%;
+	display:inline-block;
+	height:30%;
+	overflow:hidden;
+}
+h4 {
+	column-span: all;
+	text-align: center;
+}
+h6 {
+	column-span: all;
+	text-align: center;
+}
+img {
+  	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+	height: 400px; 
+	width: 300px;
+	border-radius: 30%;
+
+} 
+p {
+	text-align: justify;
+}
