@@ -4,7 +4,7 @@ html {
 div {
 	color: #FFFFFF;
 }
-.titulo {
+.titulo, h4, h6 {
 	text-align: center;
 }
 .expLab {
@@ -13,14 +13,6 @@ div {
 	display:inline-block;
 	height:30%;
 	overflow:hidden;
-}
-h4 {
-	column-span: all;
-	text-align: center;
-}
-h6 {
-	column-span: all;
-	text-align: center;
 }
 img {
   	display: block;
